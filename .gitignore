@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+BACKEND/venv/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node modules
+my-app/node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
